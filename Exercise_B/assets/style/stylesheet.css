@@ -1,1 +1,18 @@
 /* Your CSS code here */
+.centered {
+    font-size: 60px;
+    color: white;
+    position: absolute;
+    top: 53%;
+    left: 33%;
+}
+
+.pressme {
+    background-color: green;
+    border-radius: 10px;
+    color: white;
+    font-size: 40px;
+    position: absolute;
+    top: 65%;
+    left: 40%;
+}

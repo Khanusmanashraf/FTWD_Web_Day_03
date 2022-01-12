@@ -18,3 +18,5 @@ function calculator(operator, a, b) {
 }
 
 console.log(calculator("+", 1, 2));
+
+// 
